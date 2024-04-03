@@ -9,5 +9,7 @@ inline: true
 I will be talking about how challenging is introducing the human factor into models and simulations · considering humans have their unpredictability and free will what makes simulations more complex. · The main question is how do we incorporate these aspects into modeling. · Together with the audience I will go on a journey through various examples, · from road traffic to pedestrian traffic simulations, presenting how human decisions can shape social phenomena. · Finally, I will show how to use artificial intelligence in simulations where people · compete for limited resources with intelligent machines.
 
 See you there!
-![image](https://media.licdn.com/dms/image/D4D22AQGnqy4fTO7XgA/feedshare-shrink_1280/0/1711360946141?e=1715212800&v=beta&t=yy8YmkhBs_ORaZcfzCZCvGw9pgdldifMNH4kYxRtRLU)
+
+
+[<img src="https://media.licdn.com/dms/image/D4D22AQGnqy4fTO7XgA/feedshare-shrink_1280/0/1711360946141?e=1715212800&v=beta&t=yy8YmkhBs_ORaZcfzCZCvGw9pgdldifMNH4kYxRtRLU" width="150"/>](https://media.licdn.com/dms/image/D4D22AQGnqy4fTO7XgA/feedshare-shrink_1280/0/1711360946141?e=1715212800&v=beta&t=yy8YmkhBs_ORaZcfzCZCvGw9pgdldifMNH4kYxRtRLU)
 [Presentation](https://github.com/RafalKucharskiPK/rafalkucharskipk.github.io/blob/master/assets/pdf/sfi.pdf)
