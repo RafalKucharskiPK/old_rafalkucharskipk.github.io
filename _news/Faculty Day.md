@@ -11,4 +11,4 @@ So many inspiring lectures, fruitful discussions and workshops including mine co
 
 
 
-<img src="https://matinf.uj.edu.pl/documents/41633/155714947/DW07.jpg"width="400"/>(https://matinf.uj.edu.pl/documents/41633/155714947/DW07.jpg)
+[Photo](https://matinf.uj.edu.pl/documents/41633/155714947/DW07.jpg)
