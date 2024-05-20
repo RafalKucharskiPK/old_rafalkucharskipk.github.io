@@ -1,6 +1,7 @@
 ---
 layout: post
 date: 2023-04-15 09:10:00-0400
+title: Joint GMUM seminar with Jack Haddad
 inline: true
 ---
 
