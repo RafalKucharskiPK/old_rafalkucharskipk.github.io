@@ -1,6 +1,7 @@
 ---
 layout: post
 date: 2021-11-17 09:10:00-0400
+title: Farnoud joins the team
 inline: true
 ---
 
