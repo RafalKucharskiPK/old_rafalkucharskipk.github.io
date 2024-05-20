@@ -1,6 +1,7 @@
 ---
 layout: post
 date: 2024-02-28
+title: Meeting with JU Rector
 inline: true
 ---
 
