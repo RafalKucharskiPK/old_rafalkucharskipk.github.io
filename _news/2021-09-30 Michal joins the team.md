@@ -1,6 +1,7 @@
 ---
 layout: post
 date: 2021-09-30 09:10:00-0400
+title: Michal joins the team
 inline: true
 ---
 
