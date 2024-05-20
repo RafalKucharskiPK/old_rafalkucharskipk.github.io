@@ -1,6 +1,7 @@
 ---
 layout: post
 date: 2023-03-01 09:10:00-0400
+title: About COeXISTENCE at MIMUW
 inline: true
 ---
 
