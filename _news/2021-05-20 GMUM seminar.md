@@ -1,6 +1,7 @@
 ---
 layout: post
 date: 2021-05-20 09:10:00-0400
+title: GMUM seminar
 inline: true
 ---
 
