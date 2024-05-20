@@ -1,6 +1,7 @@
 ---
 layout: post
 date: 2020-07-15 09:10:00-0400
+title: Our algorithm published
 inline: true
 ---
 
