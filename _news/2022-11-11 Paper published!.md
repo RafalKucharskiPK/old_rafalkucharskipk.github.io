@@ -1,6 +1,7 @@
 ---
 layout: post
 date: 2022-11-11 09:10:00-0400
+title: Paper published!
 inline: true
 ---
 
