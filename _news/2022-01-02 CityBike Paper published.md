@@ -1,6 +1,7 @@
  ---
 layout: post
 date: 2022-01-02 09:10:00-0400
+title: CityBike Paper published
 inline: true
 ---
 
