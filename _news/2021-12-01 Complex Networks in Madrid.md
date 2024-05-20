@@ -1,6 +1,7 @@
 ---
 layout: post
 date: 2021-12-01 09:10:00-0400
+title: Complex Networks in Madrid
 inline: true
 ---
 
