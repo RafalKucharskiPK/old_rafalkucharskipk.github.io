@@ -1,6 +1,7 @@
   ---
 layout: post
 date: 2023-10-09 09:10:00-0400
+title: EWRL workshop
 inline: true
 ---
 
