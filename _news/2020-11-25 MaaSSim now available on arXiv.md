@@ -1,6 +1,7 @@
 ---
 layout: post
 date: 2020-11-25 09:10:00-0400
+title:  MaaSSim now available on arXiv
 inline: true
 ---
 
