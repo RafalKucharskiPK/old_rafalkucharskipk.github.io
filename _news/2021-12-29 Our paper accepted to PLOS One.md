@@ -1,6 +1,7 @@
 ---
 layout: post
 date: 2021-12-29 09:10:00-0400
+title: Our paper accepted to PLOS One
 inline: true
 ---
 
