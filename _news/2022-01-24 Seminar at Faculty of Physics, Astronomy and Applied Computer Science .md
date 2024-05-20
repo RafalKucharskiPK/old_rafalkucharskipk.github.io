@@ -1,6 +1,7 @@
 ---
 layout: post
 date: 2022-01-24 09:10:00-0400
+title: Seminar at Faculty of Physics, Astronomy and Applied Computer Science
 inline: true
 ---
 
