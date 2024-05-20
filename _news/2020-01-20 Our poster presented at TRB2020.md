@@ -1,6 +1,7 @@
 ---
 layout: post
 date: 2020-01-20 09:10:00-0400
+title: Our poster presented at TRB2020
 inline: true
 ---
 
