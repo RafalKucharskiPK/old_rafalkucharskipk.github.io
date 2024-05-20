@@ -9,5 +9,5 @@ inline: true
 
 Just look at these happy faces!    
 
-<img src='https://github.com/RafalKucharskiPK/rafalkucharskipk.github.io/blob/master/assets/img/Anastasia%20Vienna.jpg'  width='200'>
-<img src='https://github.com/RafalKucharskiPK/rafalkucharskipk.github.io/blob/master/assets/img/Onur%20Vienna.jpg' width='200'> 
+![Anastasia](<img src='https://github.com/RafalKucharskiPK/rafalkucharskipk.github.io/blob/master/assets/img/Anastasia%20Vienna.jpg'  width='200'>)
+![Onur](<img src='https://github.com/RafalKucharskiPK/rafalkucharskipk.github.io/blob/master/assets/img/Onur%20Vienna.jpg' width='200'>)
