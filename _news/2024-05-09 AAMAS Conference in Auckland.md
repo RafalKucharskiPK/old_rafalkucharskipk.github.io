@@ -1,6 +1,7 @@
 ---
 layout: post
 date: 2024-05-09
+title: AAMAS Conference in Auckland
 inline: true
 ---
 
