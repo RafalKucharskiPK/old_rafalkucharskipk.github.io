@@ -1,6 +1,7 @@
 ---
 layout: post
 date: 2022-01-05 09:10:00-0400
+title: hEART2022 submissions
 inline: true
 ---
 
