@@ -5,4 +5,4 @@ title: Joint GMUM seminar with Jack Haddad
 inline: true
 ---
 
-Great pleasre to host prof. **Jack Haddad** from [Technion](https://cee.technion.ac.il/en/members/haddad/) at the seminar of GMUM group - very nice presentation and feedback
+Great pleasure to host prof. **Jack Haddad** from [Technion](https://cee.technion.ac.il/en/members/haddad/) at the seminar of GMUM group - very nice presentation and feedback
