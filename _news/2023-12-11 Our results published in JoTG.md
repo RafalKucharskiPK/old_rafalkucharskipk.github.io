@@ -1,6 +1,7 @@
 ---
 layout: post
 date: 2023-12-11 09:10:00-0400
+title: Our results published in JoTG
 inline: true
 ---
 
