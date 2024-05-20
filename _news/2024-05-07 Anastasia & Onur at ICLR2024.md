@@ -9,5 +9,5 @@ inline: true
 
 Just look at these happy faces!    
 
-![Anastasia](https://github.com/RafalKucharskiPK/rafalkucharskipk.github.io/blob/master/assets/img/Anastasia%20Vienna.jpg)
-![Onur](https://github.com/RafalKucharskiPK/rafalkucharskipk.github.io/blob/master/assets/img/Onur%20Vienna.jpg)
+[Anastasia](https://github.com/RafalKucharskiPK/rafalkucharskipk.github.io/blob/master/assets/img/Anastasia%20Vienna.jpg)
+[Onur](https://github.com/RafalKucharskiPK/rafalkucharskipk.github.io/blob/master/assets/img/Onur%20Vienna.jpg)
