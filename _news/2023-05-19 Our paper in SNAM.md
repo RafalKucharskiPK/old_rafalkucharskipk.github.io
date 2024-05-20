@@ -1,6 +1,7 @@
 ---
 layout: post
 date: 2023-05-19 09:00:00-0400
+title: Our paper in SNAM
 inline: true
 ---
 
