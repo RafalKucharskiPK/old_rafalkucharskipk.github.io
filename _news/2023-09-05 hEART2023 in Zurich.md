@@ -1,6 +1,7 @@
 ---
 layout: post
 date: 2023-09-05 09:10:00-0400
+title: hEART2023 in Zurich
 inline: true
 ---
 
