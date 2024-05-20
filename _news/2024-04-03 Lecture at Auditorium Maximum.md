@@ -1,6 +1,7 @@
 ---
 layout: post
 date: 2024-04-03
+title: Lecture at Auditorium Maximum
 inline: true
 ---
 
