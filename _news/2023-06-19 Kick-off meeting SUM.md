@@ -1,6 +1,7 @@
 ---
 layout: post
 date: 2023-06-19 09:10:00-0400
+title:  Kick-off meeting SUM
 inline: true
 ---
 
