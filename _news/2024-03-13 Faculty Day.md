@@ -1,6 +1,7 @@
 ---
 layout: post
 date: 2024-03-13
+title: Faculty Day
 inline: true
 ---
 
