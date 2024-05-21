@@ -7,4 +7,4 @@ inline: true
 
 [**Anastasia**](https://www.linkedin.com/in/anastasia-psarou) and [**Onur**](https://www.linkedin.com/in/aonurakman) during their first conference since they joined COeXISTENCE team! At [**ICLR 2024**](https://iclr.cc/) they both had an opportunity to update knowledge on the learning representations and hold discussions with not only academic staff and industrial researchers, but also other students. I am confident that the experience gained this year will bring benefits. 
 
-[Just look at these happy faces!]("C:\Users\Sylwia Polak\OneDrive - Uniwersytet Jagielloński\Pulpit\postimages\ICLR.pdf")  
+[Just look at these happy faces!](/./assets/pdf/ICRL.pdf)
